@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mihailenkoilya/Documents/AndroidProjects/ArchitectureWeatherApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_container.xml",
+        "source": "/Users/mihailenkoilya/Documents/AndroidProjects/ArchitectureWeatherApp/app/src/main/res/layout/layout_container.xml"
+    },
+    {
+        "merged": "/Users/mihailenkoilya/Documents/AndroidProjects/ArchitectureWeatherApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_weather.xml",
+        "source": "/Users/mihailenkoilya/Documents/AndroidProjects/ArchitectureWeatherApp/app/src/main/res/layout/fragment_weather.xml"
+    }
+]

@@ -1,0 +1,101 @@
+ilya/mihailenko/myapplication/di/app/CommonAppModule_ProvideLocationConnectionManagerFactory.java
+ ilya.mihailenko.myapplication.di.app.CommonAppModule_ProvideLocationConnectionManagerFactory
+ilya/mihailenko/myapplication/di/common/ComponentProvider.java
+ ilya.mihailenko.myapplication.di.common.ComponentProvider
+ilya/mihailenko/myapplication/model/interactor/weather/WeatherInteractorImpl_Factory.java
+ ilya.mihailenko.myapplication.model.interactor.weather.WeatherInteractorImpl_Factory
+ilya/mihailenko/myapplication/di/features/weather/WeatherModule_Companion_ProvideGeocoderFactory.java
+ ilya.mihailenko.myapplication.di.features.weather.WeatherModule_Companion_ProvideGeocoderFactory
+ilya/mihailenko/myapplication/di/common/ComponentManager.java
+ ilya.mihailenko.myapplication.di.common.ComponentManager
+ilya/mihailenko/myapplication/model/facade/currentweather/CurrentWeatherFacadeImpl_Factory.java
+ ilya.mihailenko.myapplication.model.facade.currentweather.CurrentWeatherFacadeImpl_Factory
+ilya/mihailenko/myapplication/TheApp_MembersInjector.java
+ ilya.mihailenko.myapplication.TheApp_MembersInjector
+ilya/mihailenko/myapplication/di/common/module/NetworkModule_ProvideOkHttpBuilder$app_debugFactory.java
+ ilya.mihailenko.myapplication.di.common.module.NetworkModule_ProvideOkHttpBuilder$app_debugFactory
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+ilya/mihailenko/myapplication/di/common/module/NetworkModule_ProvideRetrofitBuilder$app_debugFactory.java
+ ilya.mihailenko.myapplication.di.common.module.NetworkModule_ProvideRetrofitBuilder$app_debugFactory
+ilya/mihailenko/myapplication/di/activity/CommonActivityModule_ProvideLocationTrackerFactory.java
+ ilya.mihailenko.myapplication.di.activity.CommonActivityModule_ProvideLocationTrackerFactory
+ilya/mihailenko/myapplication/di/activity/CommonActivityModule_ProvideCurrentLocationTrackerFactory.java
+ ilya.mihailenko.myapplication.di.activity.CommonActivityModule_ProvideCurrentLocationTrackerFactory
+ilya/mihailenko/myapplication/BR.java
+ ilya.mihailenko.myapplication.BR
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+ilya/mihailenko/myapplication/di/common/module/NetworkModule_ProvideWeatherApi$app_debugFactory.java
+ ilya.mihailenko.myapplication.di.common.module.NetworkModule_ProvideWeatherApi$app_debugFactory
+ilya/mihailenko/myapplication/databinding/LayoutContainerBinding.java
+ ilya.mihailenko.myapplication.databinding.LayoutContainerBinding
+ilya/mihailenko/myapplication/di/app/AppModule_ProvideApplication$app_debugFactory.java
+ ilya.mihailenko.myapplication.di.app.AppModule_ProvideApplication$app_debugFactory
+ilya/mihailenko/myapplication/di/common/module/NetworkModule_ProvideLoggingInterceptor$app_debugFactory.java
+ ilya.mihailenko.myapplication.di.common.module.NetworkModule_ProvideLoggingInterceptor$app_debugFactory
+ilya/mihailenko/myapplication/di/app/AppModule_ProvideContext$app_debugFactory.java
+ ilya.mihailenko.myapplication.di.app.AppModule_ProvideContext$app_debugFactory
+ilya/mihailenko/myapplication/di/app/CommonAppModule_ProvideResourceManagerFactory.java
+ ilya.mihailenko.myapplication.di.app.CommonAppModule_ProvideResourceManagerFactory
+ilya/mihailenko/myapplication/di/common/module/NavigationModule_ProvideAppNavigationHolderFactory.java
+ ilya.mihailenko.myapplication.di.common.module.NavigationModule_ProvideAppNavigationHolderFactory
+ilya/mihailenko/myapplication/di/common/module/NavigationModule_ProvideAppRouterFactory.java
+ ilya.mihailenko.myapplication.di.common.module.NavigationModule_ProvideAppRouterFactory
+ilya/mihailenko/myapplication/databinding/LayoutContainerBindingImpl.java
+ ilya.mihailenko.myapplication.databinding.LayoutContainerBindingImpl
+ilya/mihailenko/myapplication/di/app/AppModule_ProvideActivityProvider$app_debugFactory.java
+ ilya.mihailenko.myapplication.di.app.AppModule_ProvideActivityProvider$app_debugFactory
+ilya/mihailenko/myapplication/di/activity/CommonActivityModule_ProvideGpsConnectionManagerFactory.java
+ ilya.mihailenko.myapplication.di.activity.CommonActivityModule_ProvideGpsConnectionManagerFactory
+ilya/mihailenko/myapplication/di/common/ComponentMap.java
+ ilya.mihailenko.myapplication.di.common.ComponentMap
+ilya/mihailenko/myapplication/di/common/module/NetworkModule_ProvideGson$app_debugFactory.java
+ ilya.mihailenko.myapplication.di.common.module.NetworkModule_ProvideGson$app_debugFactory
+ilya/mihailenko/myapplication/model/repository/weather/WeatherRepositoryImpl_Factory.java
+ ilya.mihailenko.myapplication.model.repository.weather.WeatherRepositoryImpl_Factory
+ilya/mihailenko/myapplication/model/data/network/interceptor/AppInfoInterceptor_Factory.java
+ ilya.mihailenko.myapplication.model.data.network.interceptor.AppInfoInterceptor_Factory
+ ilya.mihailenko.myapplication.model.data.network.interceptor.AppInfoInterceptor_Factory$InstanceHolder
+ilya/mihailenko/myapplication/di/app/DaggerAppComponent.java
+ ilya.mihailenko.myapplication.di.app.DaggerAppComponent
+ ilya.mihailenko.myapplication.di.app.DaggerAppComponent$1
+ ilya.mihailenko.myapplication.di.app.DaggerAppComponent$Builder
+ilya/mihailenko/myapplication/BuildConfig.java
+ ilya.mihailenko.myapplication.BuildConfig
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+ilya/mihailenko/myapplication/DataBindingTriggerClass.java
+ ilya.mihailenko.myapplication.DataBindingTriggerClass
+ilya/mihailenko/myapplication/di/features/weather/WeatherModule_ProvideGeocoderFactory.java
+ ilya.mihailenko.myapplication.di.features.weather.WeatherModule_ProvideGeocoderFactory
+ilya/mihailenko/myapplication/databinding/FragmentWeatherBindingImpl.java
+ ilya.mihailenko.myapplication.databinding.FragmentWeatherBindingImpl
+ilya/mihailenko/myapplication/presentation/weather/WeatherViewModel_Factory_Impl.java
+ ilya.mihailenko.myapplication.presentation.weather.WeatherViewModel_Factory_Impl
+ilya/mihailenko/myapplication/DataBinderMapperImpl.java
+ ilya.mihailenko.myapplication.DataBinderMapperImpl
+ ilya.mihailenko.myapplication.DataBinderMapperImpl$InnerBrLookup
+ ilya.mihailenko.myapplication.DataBinderMapperImpl$InnerLayoutIdLookup
+ilya/mihailenko/myapplication/presentation/weather/WeatherViewModel_Factory.java
+ ilya.mihailenko.myapplication.presentation.weather.WeatherViewModel_Factory
+ilya/mihailenko/myapplication/di/features/weather/DaggerWeatherComponent.java
+ ilya.mihailenko.myapplication.di.features.weather.DaggerWeatherComponent
+ ilya.mihailenko.myapplication.di.features.weather.DaggerWeatherComponent$1
+ ilya.mihailenko.myapplication.di.features.weather.DaggerWeatherComponent$Builder
+ ilya.mihailenko.myapplication.di.features.weather.DaggerWeatherComponent$ilya_mihailenko_myapplication_di_activity_ActivityComponent_getContext
+ ilya.mihailenko.myapplication.di.features.weather.DaggerWeatherComponent$ilya_mihailenko_myapplication_di_activity_ActivityComponent_provideCurrentLocationTracker
+ ilya.mihailenko.myapplication.di.features.weather.DaggerWeatherComponent$ilya_mihailenko_myapplication_di_activity_ActivityComponent_provideGpsConnectionManager
+ ilya.mihailenko.myapplication.di.features.weather.DaggerWeatherComponent$ilya_mihailenko_myapplication_di_activity_ActivityComponent_provideWeatherApi
+ilya/mihailenko/myapplication/databinding/FragmentWeatherBinding.java
+ ilya.mihailenko.myapplication.databinding.FragmentWeatherBinding
+ilya/mihailenko/myapplication/di/activity/DaggerActivityComponent.java
+ ilya.mihailenko.myapplication.di.activity.DaggerActivityComponent
+ ilya.mihailenko.myapplication.di.activity.DaggerActivityComponent$1
+ ilya.mihailenko.myapplication.di.activity.DaggerActivityComponent$Builder
+ ilya.mihailenko.myapplication.di.activity.DaggerActivityComponent$ilya_mihailenko_myapplication_di_app_AppComponent_getActivityProvider
+ ilya.mihailenko.myapplication.di.activity.DaggerActivityComponent$ilya_mihailenko_myapplication_di_app_AppComponent_getContext
+ilya/mihailenko/myapplication/presentation/weather/WeatherFragment_MembersInjector.java
+ ilya.mihailenko.myapplication.presentation.weather.WeatherFragment_MembersInjector
+ilya/mihailenko/myapplication/presentation/base/AppActivity_MembersInjector.java
+ ilya.mihailenko.myapplication.presentation.base.AppActivity_MembersInjector
